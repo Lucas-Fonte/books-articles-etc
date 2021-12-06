@@ -17,13 +17,20 @@ A repository containing books, articles or anything tech related that I found in
 ### Read queue
 - Node.js beyond basics: https://github.com/jscomplete/book-node-beyond-basics
 
+### In progress
+- Atomic Design: https://atomicdesign.bradfrost.com/chapter-2/
+
 ### Done
 - _Empty_
 
+---
 ## Articles
 ### Read queue
 - Node.js memory limitations: https://medium.com/@ashleydavis75/node-js-memory-limitations-30d3fe2664c0
 - When worse is better: https://www.facebook.com/notes/658384368194440/
+
+### In progress
+- _Empty_
 
 ### Done
 - Node.js Streams: https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93/

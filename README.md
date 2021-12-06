@@ -23,6 +23,8 @@ A repository containing books, articles or anything tech related that I found in
 ## Articles
 ### Read queue
 - Node.js memory limitations: https://medium.com/@ashleydavis75/node-js-memory-limitations-30d3fe2664c0
+- When worse is better: https://www.facebook.com/notes/658384368194440/
 
 ### Done
 - Node.js Streams: https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93/
+- Too clean?: https://blog.cleancoder.com/uncle-bob/2018/08/13/TooClean.html

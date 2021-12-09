@@ -1,1 +1,5 @@
+# Too clean? 
 
+Source: https://blog.cleancoder.com/uncle-bob/2018/08/13/TooClean.html
+
+I won't be writting this as proper review or anything like that, since this is my first opinion based file, I will be just going along with my reflections over this article/blog post. I've been preaching out this concept of _over cleanliness_ out of my perception after hitting my head against the wall many times trying to create perfect software. It has been some time since I've realized perfect software does not exist and it is quite interesting to me how the _pyramid effect_ shows itself again and again, different people with complete different experiences comming to the same conclusions. I do agree code should have MVM ( Minimum Viable Mess ), at least for small period of time or when you're trying to validate behaviours, ideas or even design. I feel like sometimes, things do not have a perfect place or an ideal implementation and doing it so might slow things down or create complexity over something we do not fully understand. This is just my two cents over this article, I felt like storing my thoughts over it, let's see how this goes. 

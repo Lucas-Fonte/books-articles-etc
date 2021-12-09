@@ -16,6 +16,19 @@ A repository containing books, articles or anything tech related that I found in
 ## Books
 ### Read queue
 - Node.js beyond basics: https://github.com/jscomplete/book-node-beyond-basics
+- Lean Startup (I've read it already, but it is a really good one)
+- The Clean Coder
+- The Pragmatic Programmer
+- Domain Driven Design
+- Extreme Programimng Explained
+- Patterns of Enterprise Applications Patterns
+- Clean Code (Always good to revisit)
+- Design Patterns (Always good to revisit as well)
+- Refactoring
+- Agile
+- Introduction to Algorithms
+- Compilers
+- The Art of Computer Programming
 
 ### In progress
 - Atomic Design: https://atomicdesign.bradfrost.com/chapter-2/

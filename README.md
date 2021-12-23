@@ -42,7 +42,7 @@ A repository containing books, articles or anything tech related that I found in
 - Node.js memory limitations: https://medium.com/@ashleydavis75/node-js-memory-limitations-30d3fe2664c0
 
 ### In progress
-- _Empty_
+- Packge by feature: https://phauer.com/2020/package-by-feature/
 
 ### Done
 - Node.js Streams: https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93/

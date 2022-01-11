@@ -42,9 +42,10 @@ A repository containing books, articles or anything tech related that I found in
 - Node.js memory limitations: https://medium.com/@ashleydavis75/node-js-memory-limitations-30d3fe2664c0
 
 ### In progress
-- Packge by feature: https://phauer.com/2020/package-by-feature/
+- 12 Factor App: https://12factor.net/pt_br/
 
 ### Done
 - Node.js Streams: https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93/
 - Too clean?: https://blog.cleancoder.com/uncle-bob/2018/08/13/TooClean.html
 - When worse is better: https://www.facebook.com/notes/658384368194440/
+- Packge by feature: https://phauer.com/2020/package-by-feature/
